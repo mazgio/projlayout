@@ -7,7 +7,18 @@ main{
     margin-top:50px;
     box-shadow: 10px 10px 10px grey;
 }
-
+h2 {
+    color: white;
+}
+h3 {
+    color: magenta;
+}
 .box{
     background-color:purple ;
+    height: 200px;
+    width:300px;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 30px;
+
 }
