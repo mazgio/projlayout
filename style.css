@@ -1,0 +1,13 @@
+main{
+    width:80%;
+    height:100%;
+    padding: 40px;
+    border: 2px solid black;
+    margin:10%;
+    margin-top:50px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+.box{
+    background-color:purple ;
+}
