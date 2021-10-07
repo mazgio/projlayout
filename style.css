@@ -7,11 +7,21 @@ main{
     margin-top:50px;
     box-shadow: 10px 10px 10px grey;
 }
+h1 {
+    color:purple
+}
 h2 {
     color: white;
 }
 h3 {
     color: magenta;
+}
+main p {
+    width: 350px;
+}
+
+q {
+    color:white
 }
 .box{
     background-color:purple ;
@@ -21,4 +31,14 @@ h3 {
     border-radius: 5px;
     padding: 30px;
 
+}
+
+.upperbox {
+
+}
+.middlebox {
+
+}
+.lowerbox {
+    
 }
